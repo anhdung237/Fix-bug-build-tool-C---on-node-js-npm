@@ -1,5 +1,7 @@
 # Fix-bug-build-tool-C-on-node-js-npm
 
+This bug happens when installing Chimp. 
+
 
 Link to fix: 
 - https://www.npmjs.com/package/windows-build-tools
@@ -7,4 +9,4 @@ Link to fix:
 
 1. npm install --global windows-build-tools
 	+  [Windows Vista / 7 only] requires .NET Framework 4.5.1 (Currently not installed automatically by this package)
-2. Cai Chimp: npm install -g chimp
+2. Install Chimp: npm install -g chimp
